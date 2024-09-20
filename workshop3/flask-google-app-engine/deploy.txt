@@ -1,0 +1,3 @@
+gcloud init
+gcloud config set project insper-bigdata
+gcloud app deploy
